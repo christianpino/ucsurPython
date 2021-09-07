@@ -1,0 +1,6 @@
+n1 = int(input("Ingrese N1: "))
+n2 = int(input("Ingrese N2: "))
+print("La suma es: ", n1+n2)
+print("La resta es: ", n1-n2)
+print("La multiplicacion es: ", n1*n2)
+print("La division es: ", n1/n2)
